@@ -1,7 +1,7 @@
 # Hi 👋, I am Muhammad Fraz. 😄
 ### Front End Developer | React Js | JavaScript 
 
-* __________________________________________________ *
+__________________________________________________
 
 ## ✨ ABOUT ME
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React Js & modern javascript frame works.
 - 💬 Ask me about React Js, HTML 5 , CSS 3, JavaScript.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<!--  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 <!--
 **Muhammadfraz98/Muhammadfraz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
