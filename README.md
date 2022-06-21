@@ -1,18 +1,9 @@
-# Hi 👋, I am Muhammad Fraz. 😄
-### Front End Developer | React Js | JavaScript 
-
-__________________________________________________
-
-## ✨ ABOUT ME
-
-- 🔭 I'm currently working as React Js Developer
-- 🌱 I’m currently learning React Js & modern javascript frame works.
-- 💬 Ask me about React Js, HTML 5 , CSS 3, JavaScript.
-
-<h1 align="center">Hi 👋, I'm Muhammad Fraz</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Fraz 😄</h1>
 <h3 align="center">Full Stack Developer | JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfraz98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfraz98" /> </p>
+
+## ✨ ABOUT ME
 
 - 🔭 I’m currently working as **React Js Developer**
 
