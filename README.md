@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://muhammmadfraz98.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://my-portfolio-live-8f1cb.web.app/)
 
 <h1 align="center">Hi 👋, I'm Muhammad Fraz</h1>
 <h3 align="center">Full Stack Developer | JavaScript</h3>
