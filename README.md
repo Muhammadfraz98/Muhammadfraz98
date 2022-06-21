@@ -23,9 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfraz98&show_icons=true&locale=en&layout=compact" alt="muhammadfraz98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadfraz98&show_icons=true&locale=en" alt="muhammadfraz98" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadfraz98&show_icons=true&locale=en" alt="muhammadfraz98" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfraz98&" alt="muhammadfraz98" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfraz98&" alt="muhammadfraz98" /></p> -->
 
 
 <!--  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
