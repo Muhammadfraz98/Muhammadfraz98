@@ -2,9 +2,8 @@
 <h3 align="center">Full Stack Developer | JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfraz98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfraz98" /> </p>
-<p  align="right"> 
-    <img src="https://dribbble.com/shots/11102426-Quarantine-day-1264729/attachments/2701770?mode=media" alt="giphy" /> 
-</p>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11102426-Quarantine-day-1264729/attachments/2701770?mode=media" alt="giphy" /> 
+
 - 🔭 I’m currently working as **React Js Developer**
 
 - 📫 How to reach me **muhammadfraz98@gmail.com**
