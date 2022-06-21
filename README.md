@@ -1,7 +1,8 @@
 # Hi 👋, I am Muhammad Fraz. 😄
+### Front End Developer | React Js | JavaScript 
 
-## Front End Developer | React Js | JavaScript 
-__________________________________________________
+* __________________________________________________ *
+
 ## ✨ ABOUT ME
 
 - 🔭 I'm currently working as React Js Developer
