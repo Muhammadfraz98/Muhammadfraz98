@@ -1,6 +1,5 @@
-### Hi there 👋
-I am Muhammad Fraz
-React Js | JavaScript | Front End Developer 
+### Hi, I am Muhammad Fraz 👋
+ Front End Developer | React Js | JavaScript 
 <!--
 **Muhammadfraz98/Muhammadfraz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
