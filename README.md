@@ -18,11 +18,10 @@
 
 - 📄 Know about my experiences **⚡ https://my-portfolio-live-8f1cb.web.app/**
 </p>
-<p align = "right">
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-</p>
-</div>
 
+
+</div>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
