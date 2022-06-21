@@ -2,7 +2,9 @@
 <h3 align="center">Full Stack Developer | JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfraz98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfraz98" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11102426-Quarantine-day-1264729/attachments/2701770?mode=media" alt="giphy" /> 
+<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/11102426-Quarantine-day-1264729/attachments/2701770?mode=media](https://content.techgig.com/photo/88751917/7-programming-languages-every-beginner-should-explore.jpg?35120)" alt="giphy" /> 
+
+<!-- https://content.techgig.com/photo/88751917/7-programming-languages-every-beginner-should-explore.jpg?35120 -->
 
 - 🔭 I’m currently working as **React Js Developer**
 
