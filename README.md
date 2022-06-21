@@ -5,6 +5,9 @@
 
 ## ✨ ABOUT ME
 
+<div> 
+<p align="left">
+    
 - 🔭 I’m currently working as **React Js Developer**
 
 - 📫 How to reach me **muhammadfraz98@gmail.com**
@@ -14,6 +17,12 @@
 - 💬 Ask me about **React Js, Node Js, HTML 5 , CSS 3, JavaScript.**
 
 - 📄 Know about my experiences **⚡ https://my-portfolio-live-8f1cb.web.app/**
+</p>
+<p align = "right">
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+</p>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
