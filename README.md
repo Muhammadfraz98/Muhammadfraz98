@@ -1,4 +1,5 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://my-portfolio-live-8f1cb.web.app/)
+[![MasterHead](https://dev.to/satyampandey24/7-useful-websites-every-front-end-developer-should-know-about-it-3a4l)](https://my-portfolio-live-8f1cb.web.app/)
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Fraz</h1>
 <h3 align="center">Full Stack Developer | JavaScript</h3>
