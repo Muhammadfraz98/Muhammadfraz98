@@ -2,7 +2,7 @@
 
 ## Front End Developer | React Js | JavaScript 
 __________________________________________________
-✨ ## ABOUT ME
+## ✨ ABOUT ME
 
 - 🔭 I'm currently working as React Js Developer
 - 🌱 I’m currently learning React Js & modern javascript frame works.
