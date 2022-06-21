@@ -2,7 +2,10 @@
 <h3 align="center">Full Stack Developer | JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfraz98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfraz98" /> </p>
-
+<p  align="right"> 
+  <iframe src="https://giphy.com/embed/H1f1T0tKK4jEfNt6MG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+  <a href="https://giphy.com/gifs/work-laptop-deadline-H1f1T0tKK4jEfNt6MG">via GIPHY</a></p> 
+</p>
 - 🔭 I’m currently working as **React Js Developer**
 
 - 📫 How to reach me **muhammadfraz98@gmail.com**
