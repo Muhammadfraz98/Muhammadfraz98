@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfraz98&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfraz98" /> </p>
 <p  align="right"> 
-    <img src="https://giphy.com/gifs/work-laptop-deadline-H1f1T0tKK4jEfNt6MG" alt="giphy" /> 
+    <img src="https://dribbble.com/shots/11102426-Quarantine-day-1264729/attachments/2701770?mode=media" alt="giphy" /> 
 </p>
 - 🔭 I’m currently working as **React Js Developer**
 
