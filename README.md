@@ -6,15 +6,13 @@
 
 <!--  https://cdn.dribbble.com/users/333243/screenshots/5343222/media/229510ceedfb1fa4df7ff171b3e58f03.png?compress=1&resize=400x300  -->
 
-- 🔭 I’m currently working as **FrontEnd Developer**
+- 🔭 I’m currently working as **Fullstack Developer**
 
 - 📫 How to reach me **muhammadfraz98@gmail.com**
 
-- 🌱 I’m currently learning **Modern javascript frame works.**
+- 🌱 I’m currently learning **Modern JAVA and Javascript frame works.**
 
 - 💬 Ask me about **React Js, Next Js, Node Js, HTML 5 , CSS 3, JavaScript, Typescript.**
-
-- 📄 Know about my experiences **⚡ https://my-portfolio-live-8f1cb.web.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
